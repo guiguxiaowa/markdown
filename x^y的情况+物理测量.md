@@ -9,6 +9,15 @@ $x^{-y} = x\div x\div x\div x\div x\dots(共y个)$
 ## 初中阶段只有刻度尺需要估读
 
 ![](http://ww3.sinaimg.cn/large/0080kjnSly1gbgxjhl6z5j30o90e47b2.jpg)
+
+![](http://ww3.sinaimg.cn/large/0080kjnSly1gbgxjhl6z5j30o90e47b2.jpg)
+
+![](http://ww3.sinaimg.cn/large/0080kjnSly1gbgxtunq7ej30ps08ajva.jpg)
+
+![](http://ww3.sinaimg.cn/large/0080kjnSly1gbgxyxtdb3j30pu0cwgtx.jpg)
+
+![](http://ww3.sinaimg.cn/large/0080kjnSly1gbgy2171fpj30nj06ftbw.jpg)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDc0NDA1NDhdfQ==
+eyJoaXN0b3J5IjpbLTEzNzM4MDMzNzcsLTExMDc0NDA1NDhdfQ
+==
 -->
