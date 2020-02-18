@@ -12,10 +12,10 @@ for (int i = 2; i * i <= n; i++) {
 }
 ```
 
-时间复杂度：$\mathcal{O}(N l)$ 
+时间复杂度：$\mathcal{O}(N \log \log N)$ 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ4MjgzNDYwLC0yMDg4NzQ2NjEyLC0yMD
-g4NzQ2NjEyLC0xMjU4OTg1NjgsLTEwNzU0MDU2NTQsLTIwODg3
-NDY2MTIsLTEzNzM4MDMzNzcsLTExMDc0NDA1NDhdfQ==
+eyJoaXN0b3J5IjpbLTI3NDI4NDQzNCwtMjA4ODc0NjYxMiwtMj
+A4ODc0NjYxMiwtMTI1ODk4NTY4LC0xMDc1NDA1NjU0LC0yMDg4
+NzQ2NjEyLC0xMzczODAzMzc3LC0xMTA3NDQwNTQ4XX0=
 -->
