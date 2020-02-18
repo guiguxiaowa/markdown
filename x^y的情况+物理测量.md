@@ -1,18 +1,21 @@
+## 筛法判定质数
 ```cpp
-bool is_prime(int n) {
-    if (n == 1) {
-        return false; // 不是质数
-    }
-    for (int i = 2; i * i <= n; i++) {
-        if (n % i == 0) {
-            return false; // 不是质数
+for (int i = 2; i <= n; i++) {
+    is_prime[i] = true;
+}
+for (int i = 2; i * i <= n; i++) {
+    if (is_prime[i]) {
+        for (int j = i * i; j <= n; j +=i) {
+             is_prime[j] = false;
         }
     }
-    return true; // 是质数
 }
 ```
+
+时间复杂度：$\mathcal{O}(N l)$ 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3Mjc0NTMwNSwtMjA4ODc0NjYxMiwtMj
-A4ODc0NjYxMiwtMTI1ODk4NTY4LC0xMDc1NDA1NjU0LC0yMDg4
-NzQ2NjEyLC0xMzczODAzMzc3LC0xMTA3NDQwNTQ4XX0=
+eyJoaXN0b3J5IjpbNzQ4MjgzNDYwLC0yMDg4NzQ2NjEyLC0yMD
+g4NzQ2NjEyLC0xMjU4OTg1NjgsLTEwNzU0MDU2NTQsLTIwODg3
+NDY2MTIsLTEzNzM4MDMzNzcsLTExMDc0NDA1NDhdfQ==
 -->
